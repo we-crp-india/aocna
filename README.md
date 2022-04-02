@@ -1,2 +1,0 @@
-# aocna
-AOCNA V2

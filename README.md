@@ -76,5 +76,5 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/bPq85tg)
+![App Screenshot](https://photos.google.com/search/_tra_/photo/AF1QipNQcNBhoY14RABEHE3N4_ldylJ9_80rW5Wm042C)
 

@@ -75,6 +75,5 @@ Start the server
 
 
 ## Screenshots
-
-![App Screenshot](https://photos.google.com/search/_tra_/photo/AF1QipNQcNBhoY14RABEHE3N4_ldylJ9_80rW5Wm042C)
+![Screenshot 2022-04-02 215833](https://user-images.githubusercontent.com/67004767/161392738-7aeab721-5a22-4c8c-82cb-ce0619ca3330.png)
 
